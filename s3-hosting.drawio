@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T22:06:41.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="wlEhn0Fa4usfZPeI0S9i" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T22:19:16.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="-gnt-KW0HdD9WIF9-YFS" version="18.2.0" type="github">
   <diagram id="rex7fv41qaUPttHRLTtf" name="Page-1">
-    <mxGraphModel dx="967" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="905" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="70" y="70" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="WFS-fDEoe331SOPNhY3o-35" value="Hosted zone" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.hosted_zone;rounded=1;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-13">
-          <mxGeometry x="70" y="249" width="60" height="60" as="geometry" />
+          <mxGeometry x="69" y="260" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WFS-fDEoe331SOPNhY3o-36" value="ALIAS to CloudFront&lt;br&gt;NameServers&lt;br&gt;CNAME Records" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-13">
           <mxGeometry x="40" y="345" width="120" height="40" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="WFS-fDEoe331SOPNhY3o-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;rounded=1;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-17">
           <mxGeometry x="12" y="91" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="WFS-fDEoe331SOPNhY3o-20" value="Workstation" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;rounded=1;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-17">
+        <mxCell id="WFS-fDEoe331SOPNhY3o-20" value="Workstation&lt;br&gt;IP: 65.105.20." style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;rounded=1;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-17">
           <mxGeometry x="90" y="80" width="78" height="76" as="geometry" />
         </mxCell>
         <mxCell id="WFS-fDEoe331SOPNhY3o-32" value="200 OK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=10;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-17">
@@ -78,7 +78,7 @@
         <mxCell id="WFS-fDEoe331SOPNhY3o-25" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;rounded=1;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-24">
           <mxGeometry x="12" y="70" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="WFS-fDEoe331SOPNhY3o-26" value="Workstation" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;rounded=1;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-24">
+        <mxCell id="WFS-fDEoe331SOPNhY3o-26" value="Workstation&lt;br&gt;IP: 2.0.0.1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;rounded=1;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-24">
           <mxGeometry x="90" y="60" width="78" height="76" as="geometry" />
         </mxCell>
         <mxCell id="WFS-fDEoe331SOPNhY3o-33" value="403 ERROR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=10;fontFamily=Verdana;" vertex="1" parent="WFS-fDEoe331SOPNhY3o-24">
